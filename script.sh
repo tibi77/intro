@@ -6,6 +6,7 @@ echo "student" | sudo -S apt install xcowsay
 echo "student" | sudo -S apt install toilet
 echo "student" | sudo -S apt install cmatrix
 echo "student" | sudo -S apt install libaa-bin
+echo "student" | sudo -S apt install aview
 
 
 
